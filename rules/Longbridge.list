@@ -1,7 +1,7 @@
 # NAME: Longbridge
 # FORMAT: Shadowrocket classical rule-set
 # SOURCE: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/longbridge
-# GENERATED: 2026-07-17 UTC
+# GENERATED: 2026-07-18 UTC
 # DOMAIN-SUFFIX: 12
 DOMAIN-SUFFIX,lbctrl.com
 DOMAIN-SUFFIX,lbkrs.com
