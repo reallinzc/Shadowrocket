@@ -1,7 +1,7 @@
 # NAME: Futu
 # FORMAT: Shadowrocket classical rule-set
 # SOURCE: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/futu
-# GENERATED: 2026-07-19 UTC
+# GENERATED: 2026-07-20 UTC
 # DOMAIN-SUFFIX: 21
 DOMAIN-SUFFIX,futu.cn
 DOMAIN-SUFFIX,futu.link
